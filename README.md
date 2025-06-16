@@ -25,10 +25,11 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - Contact section with form submission handling
 - Clean and modern UI
 
----
+
+
 
 ## 📸 Screenshots
-![Homepage Screenshot](./public/Screenshot%2025-06-17%002117.png)
+![Homepage Screenshot](https://github.com/user-attachments/assets/2bef621d-86f9-42c9-886d-be4462f37e1e)
 
 
 ---
